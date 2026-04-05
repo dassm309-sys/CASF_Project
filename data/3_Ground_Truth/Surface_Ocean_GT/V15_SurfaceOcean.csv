@@ -1,0 +1,6 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,90,Bubbles,Low,Medium,"Camera reaches the top, bubbles are formed"
+90,120,Empty / None,Nil,Medium,Gap between bubble scene and fish appearance
+120,180,Small fishes,Medium,Medium,Many small fishes appear
+180,330,,Nil,Medium,Adjusting the camera
+330,450,Small fishes + Grey shark,Medium,Medium,Small fishes move out of frame while a singular grey shark still remains

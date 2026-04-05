@@ -1,0 +1,5 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,120,Small blue fish,Low,Clear,Lots of blue sea with some small blue fishes
+120,180,Empty / None,Nil,Clear,Gap - no activity
+180,240,Shark,Fast,Clear,Grey shark moves fast across frame
+240,330,Shark,Slow,Clear,2 slow grey sharks enter the scene

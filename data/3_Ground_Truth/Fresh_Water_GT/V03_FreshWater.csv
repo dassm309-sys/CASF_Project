@@ -1,0 +1,5 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,30,Fish,No,Medium,Fishes standing still
+31,35,NIL,NIL,NIL,Transition
+36,60,Fish,Low,Low,New fish entered
+61,450,Turtle,High,Medium,A turtle enters into the frame

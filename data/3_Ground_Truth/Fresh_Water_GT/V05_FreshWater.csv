@@ -1,0 +1,8 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,120,Frog,Still,Clear,"Frog in the frame, stays still. Several fishes seen beside"
+121,130,NIL,NIL,NIL,Transition
+131,160,Frog,Fast,Clear,Frog jumps out of the frame
+161,240,NIL,NIL,NIL,No creatures captured
+241,360,Fish,Low,Clear,New fish enters the frame
+361,420,Fish,Medium,Clear,Fish swims actively
+421,450,NIL,NIL,NIL,No creatures captured

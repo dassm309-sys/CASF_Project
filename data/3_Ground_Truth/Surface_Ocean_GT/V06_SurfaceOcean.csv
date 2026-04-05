@@ -1,0 +1,6 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,150,,Nil,Medium,"No activity, camera bounces off the sand at the bottom"
+150,180,Sand / Bottom,Nil,Medium,Camera on sand
+180,240,Medium black fish,Medium,Medium,"Medium sized black fish passes by, ship chain clearly seen"
+240,390,,Nil,Medium,Camera being adjusted
+390,450,Black fish + White fish,Low,Medium,"Same type of fish passes by, white fish passes near bottom of screen"

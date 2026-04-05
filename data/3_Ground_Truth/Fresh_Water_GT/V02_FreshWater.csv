@@ -1,0 +1,6 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,150,Fish,High,Medium,Fishes chasing
+151,180,Fish,Low,Medium,New Fish enters and fishes present leaves
+180,190,NIL,NIL,NIL,Transition
+191,300,Fish,Low,Medium,One Fish swims actively and other fish stays still
+301,450,Fish,Low,Low,New Fish enters

@@ -1,0 +1,4 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,30,,Nil,Medium,No activity
+30,300,Black and white fishes,Medium,Medium,Those black and white fishes are seen
+300,450,Ship chains,Nil,Medium,Camera moves and the screen is mostly the chains

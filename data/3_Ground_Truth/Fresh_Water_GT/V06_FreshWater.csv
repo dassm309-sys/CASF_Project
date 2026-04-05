@@ -1,0 +1,9 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,30,NIL,NIL,NIL,No creatures found in the frame
+31,90,Fish,Low,Medium,New fish enters the frame
+91,100,NIL,NIL,NIL,No creatures found in the frame
+101,120,NIL,NIL,NIL,Transition
+121,150,Fish,Low,Low,New fish enters the frame
+151,360,Fish,Medium,Medium,"Several fishes enter the frame, swims actively"
+361,370,NIL,NIL,NIL,No creatures found in the frame
+371,450,Fish,Medium,Clear,"Several fishes enter the frame, swims actively"

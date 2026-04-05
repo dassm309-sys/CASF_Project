@@ -1,0 +1,3 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,250,AUV,Slows descent,Clear,AUV slowing down. Seafloor approaching but no clear photometric reflection yet.
+251,450,AUV+seafloor,Stop decent,low,Descent ended. Seafloor became clearly illuminated halfway through the clip.

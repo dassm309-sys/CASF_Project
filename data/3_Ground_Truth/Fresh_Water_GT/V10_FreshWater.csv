@@ -1,0 +1,5 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,100,NIL,NIL,NIL,No creatures in the frame
+101,240,Fish,Low,Poor,Several fishes are seen swimming around
+241,300,Fish,Medium,Poor,New fishes enter the frame
+301,450,Fish,Low,Poor,"New fishes enter the frame, swims actively"

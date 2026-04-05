@@ -1,0 +1,4 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,36,"Seafloor, Rocks, AUV",Lateral Transit,Clear,Good data before the glitch.
+37,76,"Seafloor, Rocks, AUV",Lateral Transit,Corrupted,Exact frames where the video turned gray.
+77,450,"Seafloor, Rocks, AUV",Lateral Transit,Clear,"Video recovered, good data again."

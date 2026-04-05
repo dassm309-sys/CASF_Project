@@ -1,0 +1,5 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,10,Fish,High,Clear,School of fishes seen swimming around actively
+11,15,NIL,NIL,NIL,Transition
+16,150,Fish,High,Clear,School of fishes seen swimming around actively
+151,450,Fish,Low,Clear,"Monster fish spotted, stays still"

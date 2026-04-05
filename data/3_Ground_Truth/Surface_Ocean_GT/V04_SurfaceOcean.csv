@@ -1,0 +1,6 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,60,Small grey shark,Medium,Clear,Small grey shark appears
+60,90,,Nil,Clear,No activity
+90,180,Grey sharks,Low,Clear,Lot of grey sharks under the ship
+180,270,Grey shark,Medium,Clear,A grey shark following the camera
+270,450,,Nil,Clear,No activity

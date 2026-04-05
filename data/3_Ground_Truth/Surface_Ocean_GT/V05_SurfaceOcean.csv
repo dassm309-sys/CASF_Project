@@ -1,0 +1,4 @@
+Start_Frame,End_Frame,Object,Movement,Visibility,Notes
+0,240,,Nil,Medium,"No activity, camera reaching the bottom"
+240,330,Small shark,Medium,Medium,A small shark appears
+330,450,Small fishes,Low,Medium,Smaller fishes at the bottom
